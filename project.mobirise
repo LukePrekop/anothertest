@@ -39,7 +39,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://webful.com.au",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-512x512-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
