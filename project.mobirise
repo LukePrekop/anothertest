@@ -1624,12 +1624,12 @@
               "display": "none"
             },
             "@media screen and (min-device-width: 777px)": {
-              ".onlymobile": {
-                "display": "none"
+              ".mobileonly": {
+                "display": "none !important"
               }
             },
             "@media screen and (max-device-width: 776px)": {
-              ".onlymobile": {
+              ".mobileonly": {
                 "display": "inline"
               }
             }
